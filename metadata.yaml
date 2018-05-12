@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/849
     wikipedia: http://en.wikipedia.org/wiki/George_Harvey_Ralphson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22674#Boy-Scouts-on-Hudson-Bay--Or-The-Disappearing-Fleet
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-09-19'
 gutenberg_type: Text
